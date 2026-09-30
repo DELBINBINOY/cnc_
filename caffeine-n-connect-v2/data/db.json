@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Delbin Binoy",
+      "email": "delbinbinoy@gmail.com",
+      "password": "$2b$10$vtCoTHJyOv/WG3FFjaOHTOZivKTvRoYHBz.tUP2vrGrzOKxr4SBdG",
+      "department": "CSE",
+      "semester": "S5",
+      "bio": "",
+      "skills": [
+        "Video Editing",
+        "Web Development"
+      ],
+      "createdAt": "2026-09-30T10:08:02.321Z"
+    }
+  ],
+  "services": [],
+  "portfolio": [],
+  "conversations": [],
+  "messages": [],
+  "communities": [],
+  "communityMembers": [],
+  "communityMessages": [],
+  "reviews": []
+}
