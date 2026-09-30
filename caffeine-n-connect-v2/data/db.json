@@ -2,17 +2,36 @@
   "users": [
     {
       "id": 1,
+      "name": "Local User",
+      "email": "local@example.com",
+      "password": "$2b$10$2CQrb8QSnEIhaOan2EtemOWO0TBIO3VYSFBPDfKM4BF8csXtdqhuC",
+      "department": "",
+      "semester": "",
+      "bio": "",
+      "skills": [],
+      "createdAt": "2026-09-30T11:06:19.184Z"
+    },
+    {
+      "id": 2,
       "name": "Delbin Binoy",
       "email": "delbinbinoy@gmail.com",
-      "password": "$2b$10$vtCoTHJyOv/WG3FFjaOHTOZivKTvRoYHBz.tUP2vrGrzOKxr4SBdG",
+      "password": "$2b$10$pIeAda6aJQlQPH9aCIpbR.My8blH8bEtM2uu.R9.1GCc9mbgfOneq",
       "department": "CSE",
       "semester": "S5",
       "bio": "",
-      "skills": [
-        "Video Editing",
-        "Web Development"
-      ],
-      "createdAt": "2026-09-30T10:08:02.321Z"
+      "skills": [],
+      "createdAt": "2026-09-30T11:08:29.226Z"
+    },
+    {
+      "id": 3,
+      "name": "Fixed User",
+      "email": "fixed@example.com",
+      "password": "$2b$10$eY/E/5emEC7PLm6HbiQPfOgtR/TekULVgnJV6SdqOnlrM0VJmRvJS",
+      "department": "",
+      "semester": "",
+      "bio": "",
+      "skills": [],
+      "createdAt": "2026-09-30T11:09:25.692Z"
     }
   ],
   "services": [],
